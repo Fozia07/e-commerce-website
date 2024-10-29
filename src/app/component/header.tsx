@@ -1,6 +1,6 @@
 
 import Link from 'next/link'
-import { HouseIcon, SearchIcon, Sheet, ShoppingCartIcon,UserRound} from 'lucide-react'
+import { HouseIcon, SearchIcon, ShoppingCartIcon,UserRound} from 'lucide-react'
 function Header() {
   return( 
       
